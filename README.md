@@ -36,7 +36,7 @@ A real-time, resilient polling application built for the Intervue.io SDE Intern 
 ### Prerequisites
 
 - Node.js (v18+)
-- PostgreSQL URL (Local or Render Managed)
+- SUPABASE URL and KEY
 
 ### Local Setup
 
@@ -64,11 +64,6 @@ A real-time, resilient polling application built for the Intervue.io SDE Intern 
     npm install
     npm run dev
     ```
-
-4.  **Access**
-    - Student: `http://localhost:5173/student`
-    - Teacher: `http://localhost:5173/teacher`
-
 
 
 ## Features
