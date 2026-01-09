@@ -1,7 +1,6 @@
 # Resilient Live Polling System
 
-A real-time, resilient polling application built for the Intervue.io SDE Intern assignment. This system allows teachers to create polls and students to vote in real-time, handling connection drops and page reloads gracefully.
-
+A real-time, resilient polling application platform which allows teachers to create polls and students to vote in real-time, handling connection drops and page reloads alongside seamlessly allowing the poll results and history with real time chat window for in both student view and teacher view for realtime texts and participant management.
 
 
 ## Tech Stack
