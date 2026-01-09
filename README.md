@@ -12,14 +12,14 @@ A real-time, resilient polling application built for the Intervue.io SDE Intern 
 
 ## Features
 
-### Teacher Persona
+### TeacherView
 
 - **Create Polls**: Set questions, options, and a timer (e.g., 60s).
 - **Live Dashboard**: View real-time participation updates.
 - **Poll History**: Review past poll results.
 - **Kick Student**: Remove disruptive students from the session.
 
-### Student Persona
+### StudentView
 
 - **Interactive Onboarding**: Enter name to join.
 - **Live Polling**: Receive questions instantly.
