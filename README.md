@@ -34,7 +34,7 @@ A real-time, resilient polling application built for the Intervue.io SDE Intern 
 ### Prerequisites
 
 - Node.js (v18+)
-- PostgreSQL URL (Local or Render Managed)
+- Supabase URL and Key
 
 ### Local Setup
 
@@ -66,9 +66,9 @@ A real-time, resilient polling application built for the Intervue.io SDE Intern 
 
 ## Features
 
-- [x] Teacher: Create Poll & History.
-- [x] Student: Join, Vote, Real-time updates.
-- [x] Resilience: Refresh logic & Late Joiner Sync.
-- [x] UI: Figma compliance.
+Teacher: Create Poll & History.
+Student: Join, Vote, Real-time updates.
+Resilience: Refresh logic & Late Joiner Sync.
+UI: Figma compliance.
 
 ---
