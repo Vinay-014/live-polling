@@ -32,8 +32,6 @@ A real-time, resilient polling application built for the Intervue.io SDE Intern 
 - **State Recovery**: Refreshing the page maintains the user's state (Active Poll, Timer, Vote Status).
 - **Edge Cases**: Handles late joiners, kicked students, and network reconnection.
 
-## Getting Started
-
 ### Prerequisites
 
 - Node.js (v18+)
@@ -66,29 +64,12 @@ A real-time, resilient polling application built for the Intervue.io SDE Intern 
     npm run dev
     ```
 
-4.  **Access**
-    - Student: `http://localhost:5173/student`
-    - Teacher: `http://localhost:5173/teacher`
 
-## Deployment
-
-
-This project is configured for **Render Blueprints**.
-
-## Design System
-
-The UI was built to match the provided Figma specifications pixel-perfectly, featuring:
-
-- **Font**: Sora.
-- **Colors**: Custom palette (Mars Purple `#5767D0`).
-- **Layout**: strictly defined dimensions for cards and buttons.
-
-## Assignments Checklist
+## Features
 
 - [x] Teacher: Create Poll & History.
 - [x] Student: Join, Vote, Real-time updates.
 - [x] Resilience: Refresh logic & Late Joiner Sync.
-- [x] Bonus: Kicking functionality.
 - [x] UI: Figma compliance.
 
 ---
